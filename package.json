@@ -1,0 +1,29 @@
+{
+  "name": "ahmet-yesilbag",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ahmet": "echo 'Benim adım ahmet'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Ahmet Yesilbag",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.8.0",
+    "nodemailer": "^6.9.16",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmetyesilbag/ahmet_yesilbag.git"
+  }
+}
